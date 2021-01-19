@@ -1,2 +1,6 @@
 # project-why
-# MANTO PROJEKTAS PAKEISTI MANTAS.TXT "MANTAS YRA DURNAS" I "EVALDAS YRA DURNAS"
+
+# ismokt sukurt zaidima
+# ismokti go programavimo kalba
+# ismokti git
+
